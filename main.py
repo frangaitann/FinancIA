@@ -23,5 +23,6 @@ while True:
 # Must re-do the transactions_reading due to non-coherency betwen user's query and embedding output (Just adding filters and many handlers)
 
 # https://medium.com/@abhyankarharshal22/mastering-browser-automation-with-langchain-agent-and-playwright-tools-c70f38fddaa6 This could help with web searching (Its scrapping)
+# OpenAI Native Web Search can be used with Response API
 
 # DEBUG SWITCHER IS IMPLEMENTED BUT WITH NO FUNCTIONS

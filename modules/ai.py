@@ -11,7 +11,7 @@ from langgraph.checkpoint.memory import InMemorySaver
 
 
 model = ChatOpenAI(
-    model="gpt-4o-mini",
+    model="gpt-5-mini",
     temperature=0.143,
     base_url="https://openrouter.ai/api/v1",
     api_key=token_loader(),
