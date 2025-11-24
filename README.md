@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Explanation</h2>
   <br>
-  <p> CURRENT VERSION V1.0.0<br><br> Banking is modularized for easy modification or changing the platform <br> If you need to adapt it and doesn't know how to, just text me, i'll be pleasured to help <br><br> RAG System made with LangChain for financial support using your own data, web scrapping and graphs making.</p>
+  <p>Banking is modularized for easy modification or changing the platform <br> If you need to adapt it and doesn't know how to, just text me, i'll be pleasured to help <br><br> RAG (Without DDBB) System made with LangChain for financial support using your own data, web scrapping and graphs making.</p>
 </div>
 
 <div>
@@ -25,10 +25,8 @@
 
 <div align="center">
   <h2 align="center" style= font-size:1.75em><em>Contact</em></h2>
-  <br>
-  <h3><a href="discord.gg/Q2KuwbXaJc">FG. Discord (My own mark)</h3>
+  <h3><a href="discord.gg/Q2KuwbXaJc"> Discord
   <h3><a href="mailto:fran.nesgaitan15@gmail.com">E-Mail</h3>
-    <h3>Personal Discord: @frangaita.n</h3>
   <br>
   <p>Feel free to ask anything without a problem</p>
   
