@@ -1,4 +1,10 @@
 <div align="center">
+  <h1>OLD REPOSITORIES</h1>
+  <p>This repository is quite old, i have new repositories being finalized for a better lecture and understanding. I decided to keep some of my old repositories public just for proving that i'm not an AI user or a fake developer, feel free to use this repositories or ask about them but keep this on your mind.</p>
+
+<br><br><br>
+
+<div align="center">
   <h2>Explanation</h2>
   <br>
   <p>Banking is modularized for easy modification or changing the platform <br> If you need to adapt it and doesn't know how to, just text me, i'll be pleasured to help <br><br> RAG (Without DDBB) System made with LangChain for financial support using your own data, web scrapping and graphs making.</p>
